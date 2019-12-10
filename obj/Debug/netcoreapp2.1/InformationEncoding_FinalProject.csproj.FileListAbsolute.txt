@@ -1,0 +1,10 @@
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\obj\Debug\netcoreapp2.1\InformationEncoding_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\obj\Debug\netcoreapp2.1\InformationEncoding_FinalProject.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\obj\Debug\netcoreapp2.1\InformationEncoding_FinalProject.AssemblyInfo.cs
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\bin\Debug\netcoreapp2.1\InformationEncoding_FinalProject.deps.json
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\bin\Debug\netcoreapp2.1\InformationEncoding_FinalProject.runtimeconfig.json
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\bin\Debug\netcoreapp2.1\InformationEncoding_FinalProject.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\bin\Debug\netcoreapp2.1\InformationEncoding_FinalProject.dll
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\bin\Debug\netcoreapp2.1\InformationEncoding_FinalProject.pdb
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\obj\Debug\netcoreapp2.1\InformationEncoding_FinalProject.dll
+C:\Users\sumit\source\repos\InformationEncoding_FinalProject\obj\Debug\netcoreapp2.1\InformationEncoding_FinalProject.pdb
